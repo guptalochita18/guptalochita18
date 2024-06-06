@@ -70,15 +70,7 @@ Let's connect and collaborate! You can find me on these platforms:
 
 ---
 
-### 📚 Latest Blog Posts
 
-Stay updated with my latest insights and articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post-title-1)
-- [Post Title 2](https://yourblog.com/post-title-2)
-- [Post Title 3](https://yourblog.com/post-title-3)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
