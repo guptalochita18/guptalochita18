@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lochita Gupta!
 
-## 💻 Web Developer & 🤖 Machine Learning Enthusiast
+## 💻 Web Developer  🤖 Machine Learning Enthusiast
 
 I'm Lochita Gupta, a dedicated and passionate Web Developer with a keen interest in Machine Learning. My journey in the tech world is driven by an insatiable curiosity and a commitment to excellence. I specialize in developing innovative and dynamic web applications that are both user-friendly and robust, while also delving into the fascinating realms of machine learning using Python.
 
@@ -33,7 +33,7 @@ I have a diverse skill set that encompasses a wide range of technologies and too
 
 #### 📱 Web Development
 - **[Web Crawler](https://github.com/guptalochita18/webcrawler)**: A full-stack application built with React and Node.js, featuring a seamless UI/UX that enhances user interaction.
-- **[Code Alpha File Converter](https://github.com/guptalochita18/Code_alpha_file_converter)**: A responsive website created with HTML, CSS, and JavaScript, incorporating modern design principles and cross-browser compatibility.
+
 
 #### 🤖 AI/ML
 - **[Stock Prediction](https://github.com/guptalochita18/Stockprediction2)**: An AI model for image classification using TensorFlow, achieving high accuracy through advanced neural network architectures.
