@@ -48,7 +48,7 @@ I have a diverse skill set that encompasses a wide range of technologies and too
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guptalochita18&layout=compact&theme=dark)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guptalochita18&repo=webcrawler&theme=dark)](https://github.com/guptalochita18/webcrawler)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guptalochita18&repo=Code_alpha_file_converter&theme=dark)](https://github.com/guptalochita18/Code_alpha_file_converter)
+
 
 ---
 
