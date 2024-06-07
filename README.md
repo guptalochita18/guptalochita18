@@ -36,8 +36,9 @@ I have a diverse skill set that encompasses a wide range of technologies and too
 
 
 #### 🤖 AI/ML
-- **[Stock Prediction](https://github.com/guptalochita18/Stockprediction2)**: An AI model for image classification using TensorFlow, achieving high accuracy through advanced neural network architectures.
-- **[Car Detection](https://github.com/guptalochita18/car-detetction)**: A machine learning project focused on predictive analytics using scikit-learn, providing valuable data-driven insights and decision-making capabilities.
+- **[Stock Prediction](https://github.com/guptalochita18/Stockprediction2)**: An AI model for stock price prediction using advanced machine learning techniques.
+- **[Unemployment Analysis](https://github.com/guptalochita18/OIBSIP_UNEMPLOYMENT-ANALYSIS)**: An analytical project that explores unemployment trends and patterns using data science tools.
+- **[Data Visualization](https://github.com/guptalochita18/Data-Visualization)**: A project focused on creating insightful visualizations from complex datasets.
 
 ---
 
@@ -58,7 +59,7 @@ Let's connect and collaborate! You can find me on these platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lochita-gupta-98a15a225)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xx_lochita_xx?igsh=cTQ3OHhqaHZiZXFo)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guptalochita18)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guptalochita@gamil.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guptalochita@gmail.com)
 
 ---
 
@@ -70,14 +71,8 @@ Let's connect and collaborate! You can find me on these platforms:
 
 ---
 
-
-
----
-
 ### 📈 GitHub Activity
 
 ![Metrics](https://metrics.lecoq.io/guptalochita18?template=classic&isocalendar=1&languages=1&stars=1&habits=1&followup=1&people=1&code=1&activity=1&achievements=1&notable=1&repositories=1&lines=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&languages.colors=github&languages.threshold=0%25&isocalendar.duration=full-year&config.timezone=Europe%2FLondon)
 
 ---
-
-
